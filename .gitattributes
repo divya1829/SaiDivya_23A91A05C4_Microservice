@@ -1,0 +1,5 @@
+# Force LF line endings for cron (MANDATORY)
+cron/2fa-cron text eol=lf
+
+# Force LF for shell scripts (MANDATORY)
+*.sh text eol=lf

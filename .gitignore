@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Sensitive generated files (DO NOT COMMIT)
+encrypted_seed.txt
+
+# Docker local artifacts
+*.log
